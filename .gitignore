@@ -1,0 +1,30 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Executable (Linux/macOS)
+candidate_generator
+
+# Compiled Executable (Windows)
+candidate_generator.exe
+
+# Debug files
+*.gdb
+*.elf
+*.pdb
+*.ilk
+
+# Dependency directories (if any added later for libraries)
+# build/
+# deps/
+# vendor/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.suo
+*.user

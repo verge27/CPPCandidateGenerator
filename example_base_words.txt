@@ -1,0 +1,12 @@
+password
+admin
+secret
+welcome
+123456
+qwerty
+football
+summer
+winter
+spring
+guest
+test
